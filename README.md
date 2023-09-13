@@ -4,5 +4,4 @@
 ![](images/activity1.png)
 
 ## Activity 2
-![](images/activity2.png)
-
+![](images/activity2_output.png)

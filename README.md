@@ -9,3 +9,9 @@ the changes to README.
 Add a screenshot for the output of the merge command on the “main” branch. Commit
 and push the changes.
 ![](images/activity2_output.png)
+
+## Activity 3
+Add screenshots of the successful merge into your README file on the main branch.
+Commit and push the change.
+![](images/activity3_1.png)
+![](images/activity3_2.png)

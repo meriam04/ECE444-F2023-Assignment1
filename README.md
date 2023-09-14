@@ -15,3 +15,8 @@ Add screenshots of the successful merge into your README file on the main branch
 Commit and push the change.
 ![](images/activity3_1.png)
 ![](images/activity3_2.png)
+
+## Activity 4
+Add screenshot for the commits into your README file on the main branch. Commit
+and push the changes.
+![](images/activity4.png)

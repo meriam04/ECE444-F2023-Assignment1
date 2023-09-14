@@ -25,6 +25,6 @@ and push the changes.
 Push all your changes including the “rebase” branch to GitHub. Add a few screenshots
 of the commands (along with their outputs) you used for rebase in the README file on
 the ‘main’ branch. Commit and push the changes.
-
 ![](images/activity5_1.png)
 ![](images/activity5_2.png)
+
